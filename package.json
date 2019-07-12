@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-video-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomar113/nodejs-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomar113/nodejs-video-maker/issues"
+  },
+  "homepage": "https://github.com/nomar113/nodejs-video-maker#readme"
+}
