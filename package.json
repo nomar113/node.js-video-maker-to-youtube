@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/nomar113/nodejs-video-maker/issues"
   },
-  "homepage": "https://github.com/nomar113/nodejs-video-maker#readme"
+  "homepage": "https://github.com/nomar113/nodejs-video-maker#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "ibm-watson": "^4.2.2",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.15",
+    "watson-developer-cloud": "^4.0.1"
+  }
 }
